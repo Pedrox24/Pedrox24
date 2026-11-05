@@ -46,23 +46,16 @@ Alguns projetos que desenvolvo e estudo:
 
 ### 📊 Estatísticas do GitHub
 
-<p>
+<p align="center">
   <img
-    align="left"
-    alt="Estatísticas do GitHub"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Pedrox24&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=Pedrox24&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
   <img
-    align="left"
-    alt="Linguagens mais utilizadas"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrox24&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20utilizadas&langs_count=8"
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pedrox24&layout=compact&theme=tokyonight&langs_count=8"
   />
 </p>
-
-<br clear="both"/>
 
 ---
 
